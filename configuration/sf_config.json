@@ -1,7 +1,0 @@
-{
-    "account" : "my90030.ap-southeast-1",
-    "role" : "ACCOUNTADMIN",
-    "warehouse" : "COMPUTE_WH",
-    "database" : "DATA_EXTRACTION",
-    "schema" : "APPLE_CSV"
-}
